@@ -1,8 +1,6 @@
 # yandex-to-spotify
-# Yandex Music Playlist Exporter
 
 Export full playlists from Yandex Music to TXT/JSON for importing into Spotify, TuneMyMusic, Soundiiz and other services.
-
 ## Features
 
 * Exports full playlists
@@ -19,14 +17,22 @@ Export full playlists from Yandex Music to TXT/JSON for importing into Spotify, 
 2. Scroll to the very top
 3. Press F12
 4. Open Console
+
+![F12](screenshots/4.png)
+
 5. Paste `exporter.js`
 6. Press Enter
 7. Wait until export finishes
+
+![waiting](screenshots/1.png)
+![waiting](screenshots/3.png)
 
 The script will automatically download:
 
 * `yandex_playlist.txt`
 * `yandex_playlist_backup.json`
+
+![waiting](screenshots/2.png)
 
 ## Import into Spotify
 
